@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **all about Backend and Infrastructure**
 
-- 💬 Ask me about **Python, Java, Spring, SQL**
+- 💬 Ask me about **Python, Java, Spring Boot, SQL**
 
 - ❤️  **I love chai tea 🫖**
 
