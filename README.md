@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **all about Backend and Infrastructure**
 
-- 💬 Ask me about **Python, Java, Spring Boot, SQL**
+- 💬 Ask me about **Python, Java (Spring Boot), SQL**
 
 - ❤️  **I love chai tea 🫖**
 
@@ -47,6 +47,16 @@
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+</p>
+
+<h4 align="left">Data Analysis:</h4>
+<p align="left">
+    <a href="https://https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/684de246-990a-465a-9763-93b07357746b" alt="powerbi" width="40" height="40"/>
+    </a>
+    <a href="https://https://www.tableau.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/564b36e4-1168-4575-8e1f-0d4696cddd7a" alt="tableau" width="40" height="40"/>
     </a>
 </p>
 
@@ -80,7 +90,7 @@
 
 </p>
 
-<h4 align="left">Tools:</h4>
+<!-- <h4 align="left">Tools:</h4>
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -93,6 +103,5 @@
     <a href="https://swagger.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/da96ad61116f1c9178dee389ae55254277a45eb3/logos/swagger.svg" alt="swagger" width="40" height="40" height="40"/>
     </a>
+</p>  --->
 
-
-</p>
