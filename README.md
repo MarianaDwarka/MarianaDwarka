@@ -31,7 +31,7 @@
 
 <h3 align="left">Technologies I have worked with:</h3>
 
-<h4 align="left">Data science:</h4>
+<h4 align="left">Data Science:</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
