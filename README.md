@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/mariana-dwarka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariana-dwarka/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Tech Stack:</h3>
+<h3 align="left">Technologies I have worked with:</h3>
 
 <h4 align="left">Data science:</h4>
 <p align="left">
